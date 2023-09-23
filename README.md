@@ -192,13 +192,13 @@ Passos:
 
 **Pronto agora voce já tem uma Live da Tekka**
 
-```Caso a Live esteja OffLine, reinicie de hora em hora ate que ela volte```
+```Caso a Live esteja OffLine, reinicie de hora em hora ate que ela volte, CONFIA```
  
 ## Bugs Identificados
 
-- As vezes no lugar da Tekka AI pode aparecer um careca que fala estranho, é normal.
+- As vezes no lugar da Tekka IA pode aparecer um careca que fala estranho, é normal.
 - Intermitências no som são constantes, ajustes previsto para o proximo path.
-- Eventualmente a AI faz pausas para almoçar, é muito realismo.
+- Eventualmente a IA faz pausas para almoçar, a IA é muito realistica.
 
 <!-- PARCERIAS -->
 ## Parcerias
