@@ -34,6 +34,7 @@ Bem-vindos à minha zona de caos Tekkalense! :smile:
 Aqui você vai receber **TODOS OS DIAS** *(exceto pelos dias que não)* uma dose de TDHA, grosseria, estratégia bugadas, cantorias desafinadas, assuntos aleatórios e claro uma gameplay de qualidade duvidosa de [Escape from Tarkov](https://www.escapefromtarkov.com/).
 
 **Aproveita e entra no [![Discord][discord-shield]][discord-url]**
+> A IA foi treinada para repetir isso com frequencia.
 
 <!-- CARACTERISTICAS -->
 ### Caracteristicas da IA
@@ -200,6 +201,7 @@ Passos:
 - Intermitências no som são constantes, ajustes previsto para o proximo path.
 - Eventualmente a IA faz pausas para almoçar, a IA é muito realistica.
 - A IA frequentemente diz que há ```Cheaters``` nas raid`s mas é apenas um erro no codigo.
+- 
 
 <!-- PARCERIAS -->
 ## Parcerias
