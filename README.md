@@ -21,6 +21,7 @@
 * [Instalação da IA](#instalação-da-ia)
 * [Parcerias](#parcerias)
 * [Donate](#donate)
+* [Bugs](#bugs)
 
 <!-- ABOUT -->
 ## Sobre a Tekka IA
@@ -245,6 +246,12 @@ Agradeço muito aos que querem ajudar ![TekkaCapi](https://static-cdn.jtvnw.net/
 **PIX: 7d7c2b47-7d30-4549-a59b-8a96c8972f4b**
 
 ![TekkalenDonate](https://panels.twitch.tv/panel-487878559-image-0c953efe-dfd8-4609-8485-a1482975b4ae)
+
+## Bugs
+
+- As vezes no lugar da Tekka AI pode aparecer um careca que fala estranho, é normal.
+- Intermitências no som são constantes, ajustes previsto para o proximo path.
+- Eventualmente a AI faz pausas para almoçar, é muito realismo.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
