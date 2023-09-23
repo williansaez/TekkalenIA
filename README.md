@@ -199,6 +199,7 @@ Passos:
 - As vezes no lugar da Tekka IA pode aparecer um careca que fala estranho, é normal.
 - Intermitências no som são constantes, ajustes previsto para o proximo path.
 - Eventualmente a IA faz pausas para almoçar, a IA é muito realistica.
+- A IA frequentemente diz que há ```Cheaters``` nas raid`s mas é apenas um erro no codigo.
 
 <!-- PARCERIAS -->
 ## Parcerias
