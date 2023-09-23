@@ -8,22 +8,22 @@
 <!-- PROJETO CONFIDENTIAL -->
 ![Confidential][tekkalen-Confidential]
 
-# Tekka 
+# Tekka IA
 
 <!-- Index -->
 ### O que voce vai ver aqui:
-* [Sobre a Tekka](#sobre-a-tekka)
-* [Caracteristicas](#caracteristicas)
+* [Sobre a Tekka IA](#sobre-a-tekka-ia)
+* [Caracteristicas da IA](#caracteristicas-da-ia)
 * [Twitch](#twitch)
   * [Comandos](#comandos)
   * [Clips](#clips)
 * [Curiosidades](#curiosidades)
-* [Instalação](#instalação)
+* [Instalação da IA](#instalação-da-ia)
 * [Parcerias](#parcerias)
 * [Donate](#donate)
 
 <!-- ABOUT -->
-## Sobre a Tekka
+## Sobre a Tekka IA
 
 ![Tekkalen][tekkalen-screenshot]
 
@@ -35,7 +35,7 @@ Aqui você vai receber **TODOS OS DIAS** *(exceto pelos dias que não)* uma dose
 **Aproveita e entra no [![Discord][discord-shield]][discord-url]**
 
 <!-- CARACTERISTICAS -->
-### Caracteristicas
+### Caracteristicas da IA
 
 * Nome: Helena Papapombo
 * Idade: 18(cada perna) 
@@ -51,11 +51,11 @@ Aqui você vai receber **TODOS OS DIAS** *(exceto pelos dias que não)* uma dose
 <!-- TWITCH -->
 ## Twitch 
 
-**A mina com essa foto aqui meoooo:** [Tekkalen](https://static-cdn.jtvnw.net/jtv_user_pictures/e8869e44-9010-46c1-b828-21d702b0cc37-profile_image-70x70.png)
+**A mina com essa foto aqui meoooo:** 
+
+![Tekkalen](https://static-cdn.jtvnw.net/jtv_user_pictures/e8869e44-9010-46c1-b828-21d702b0cc37-profile_image-70x70.png)
 
 ### Comandos
-
-
 
 
 Lista de comandos com efeitos desconhecidos, use e **descubra** por sua conta em risco ![TekkaDance](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_11b0e9b1477a4f64a10cdc5ef689270f/default/light/1.0)
@@ -204,7 +204,6 @@ Lista de comandos com efeitos desconhecidos, use e **descubra** por sua conta em
 |	 [!gata](https://on.soundcloud.com/XSHCv)  	|	 [!quem](https://clips.twitch.tv/InspiringPoorGalagoDoubleRainbow-G_yJeF3GWsFSBlrB)  	|	 !zica 	|
 
 
-
 ### Clips
 
 Under Construction, mas da uma olha nos [Comandos](#comandos)...
@@ -218,7 +217,7 @@ Under Construction, mas da uma olha nos [Comandos](#comandos)...
 - Vocês sabiam que a tekka enche a mão de farinha, vai nadar e a farinha continua seca?!?
 
 <!-- INSTALAÇÃO -->
-## Instalação
+## Instalação da IA
 
 Passos:
 - [ ] Instale e/ou abra o navegador de sua preferencia
