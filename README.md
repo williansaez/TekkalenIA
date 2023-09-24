@@ -201,7 +201,7 @@ Passos:
 - Intermitências no som são constantes, ajustes previsto para o proximo path.
 - Eventualmente a IA faz pausas para almoçar, a IA é muito realistica.
 - A IA frequentemente diz que há ```Cheaters``` nas raid`s mas é apenas um erro no codigo.
-- 
+- As vezes a IA começa a cantar e emitir sons irritantes, correção prevista para 2030.
 
 <!-- PARCERIAS -->
 ## Parcerias
