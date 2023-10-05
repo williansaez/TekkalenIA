@@ -223,7 +223,7 @@ Agradeço muito aos que querem ajudar ![TekkaCapi](https://static-cdn.jtvnw.net/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[twitch-shield]: https://img.shields.io/badge/Tekkalen-+10.8K-9146FF?style=for-the-badge&logo=twitch
+[twitch-shield]: https://img.shields.io/badge/Tekkalen-+11K-9146FF?style=for-the-badge&logo=twitch
 [twitch-url]: https://www.twitch.tv/tekkalen
 
 [instagram-shield]: https://img.shields.io/badge/Lenapalombo-+2.5k-E4405F?style=for-the-badge&logo=instagram
